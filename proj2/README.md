@@ -187,4 +187,4 @@ Possible future enhancements include:
 
 # Author
 
-Developed as part of an Artificial Intelligence classification project (Decode Labs Internship) using Machine Learning and KNN.
+Developed by Maryam Irfan as part of an Artificial Intelligence classification project (Decode Labs Internship) using Machine Learning and KNN.
