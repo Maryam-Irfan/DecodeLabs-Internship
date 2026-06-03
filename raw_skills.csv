@@ -1,0 +1,11 @@
+job_role,skills,tools,platforms,career_path
+AI Engineer,"python machine learning deep learning tensorflow pytorch","TensorFlow PyTorch OpenCV","AWS GCP","Artificial Intelligence"
+Data Scientist,"python statistics sql pandas machine learning","Pandas NumPy Scikit-Learn","Kaggle Databricks","Data Science"
+Data Analyst,"excel sql statistics visualization powerbi","Power BI Tableau Excel","Power BI Tableau","Analytics"
+ML Engineer,"python machine learning docker kubernetes mlops","TensorFlow Docker MLflow","AWS Azure","Machine Learning"
+Backend Developer,"python django flask api sql","Django Flask FastAPI","AWS Heroku","Software Engineering"
+Frontend Developer,"javascript react html css","React NextJS Tailwind","Vercel Netlify","Web Development"
+Cloud Engineer,"aws docker kubernetes linux networking","Docker Kubernetes Terraform","AWS Azure GCP","Cloud Computing"
+Cybersecurity Analyst,"networking linux security ethical hacking","Wireshark Metasploit Nmap","Kali Linux","Cybersecurity"
+DevOps Engineer,"docker kubernetes ci cd linux aws","Jenkins Docker Kubernetes","AWS Azure","DevOps"
+Mobile Developer,"flutter dart android ios","Flutter Firebase","Play Store App Store","Mobile Development"
